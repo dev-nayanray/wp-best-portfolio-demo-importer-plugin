@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<demo_content>
+    <posts>
+        <post>
+            <title><![CDATA[Sample Post 1]]></title>
+            <content><![CDATA[This is the content of Sample Post 1.]]></content>
+            <category><![CDATA[Uncategorized]]></category>
+            <tags><![CDATA[tag1, tag2]]></tags>
+        </post>
+        <post>
+            <title><![CDATA[Sample Post 2]]></title>
+            <content><![CDATA[This is the content of Sample Post 2.]]></content>
+            <category><![CDATA[Uncategorized]]></category>
+            <tags><![CDATA[tag1, tag3]]></tags>
+        </post>
+        <!-- Add more post elements as needed -->
+    </posts>
+    
+    <pages>
+        <page>
+            <title><![CDATA[About Us]]></title>
+            <content><![CDATA[This is the content of the About Us page.]]></content>
+        </page>
+        <page>
+            <title><![CDATA[Contact Us]]></title>
+            <content><![CDATA[This is the content of the Contact Us page.]]></content>
+        </page>
+        <!-- Add more page elements as needed -->
+    </pages>
+
+    <!-- You can include other content types like custom post types, menus, etc. -->
+</demo_content>
